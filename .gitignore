@@ -1,0 +1,29 @@
+# Keil 构建产物与用户配置
+Objects/
+Listings/
+DebugConfig/
+*.uvguix.*
+*.uvoptx
+*.bak
+*.dep
+*.lnp
+*.map
+*.lst
+*.htm
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+
+# 系统杂项
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# 个人/课程材料（不入库）
+/环境温度测量仪-可行性方案报告.md
+/接线表与上机指南.md
+/接线图.svg
+/接线图.png
